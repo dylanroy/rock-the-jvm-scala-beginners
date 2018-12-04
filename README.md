@@ -22,6 +22,8 @@ Setting up project skeleton in IntelliJ.
 
 [Go To](https://github.com/dylanroy/rock-the-jvm-scala-beginners/tree/section.1-lecture.2)
 
+#### Lecture 3: Expressions
+
 ## Commit Message Guide
 **Commit Message Format**
 ```
@@ -45,5 +47,5 @@ style: convert tabs to spaces
 test: ensure Tayne retains clothing
 ```
 ## References
-[Class Github Repository](https://github.com/rockthejvm/udemy-scala-beginners)
+[Class Github Repository](https://github.com/rockthejvm/udemy-scala-beginners)  
 [Personal Access Token Instructions](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
