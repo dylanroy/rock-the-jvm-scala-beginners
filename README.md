@@ -19,6 +19,7 @@ Setting up project skeleton in IntelliJ.
      - Boolean
      - Int, Long, Double
      - String
+
 [Go To](https://github.com/dylanroy/rock-the-jvm-scala-beginners/tree/section.1-lecture.2)
 
 ## Commit Message Guide
