@@ -23,6 +23,17 @@ Setting up project skeleton in IntelliJ.
 [Go To](https://github.com/dylanroy/rock-the-jvm-scala-beginners/tree/section.1-lecture.2)
 
 #### Lecture 3: Expressions
+**Takeaways**
+  - Basic expressions: operators
+  - If in Scala is an expression
+  - Code blocks in scala are expressions
+    - The value of a code block is the value of it's last expression
+  - Expressions vs. Instructions
+    - Instructions are executed (think Java)
+    - Expressions are evaluated (Scala)
+  - Do not use while loops in your Scala code
+
+[Go To](https://github.com/dylanroy/rock-the-jvm-scala-beginners/tree/section.1-lecture.3)
 
 ## Commit Message Guide
 **Commit Message Format**

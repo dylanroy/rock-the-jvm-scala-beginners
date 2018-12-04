@@ -12,7 +12,7 @@ object ValuesVariablesTypes extends App {
 
   val aBoolean: Boolean = false
   val aChar: Char = 'a'
-  val aInt: int = x
+  val aInt: Int = x
   val aShort: Short = 4613
   val aLong: Long = 12345678901111L
   val aFloat: Float = 2.0f
