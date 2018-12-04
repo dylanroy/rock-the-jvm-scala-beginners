@@ -6,6 +6,21 @@
 Setting up project skeleton in IntelliJ.  
 [Go To](https://github.com/dylanroy/rock-the-jvm-scala-beginners/tree/section.1-lecture.1)
 
+#### Lecture 2: Values, Variables, and Types
+**Takeaways**
+   - vals are immutable therefore cannot be reassigned
+   - variables are mutable and can be reassigned
+   - this reassignment is referred to as a side effect
+   - types can be inferred
+   - prefer vals over vars
+   - all vals and vars have types
+   - compiler automatically infers types when omitted
+   - learned how to use basic types
+     - Boolean
+     - Int, Long, Double
+     - String
+[Go To](https://github.com/dylanroy/rock-the-jvm-scala-beginners/tree/section.1-lecture.2)
+
 ## Commit Message Guide
 **Commit Message Format**
 ```
