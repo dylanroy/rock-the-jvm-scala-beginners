@@ -1,6 +1,8 @@
 # Rock The JVM Scala for Beginners
+I purchased a number of classes that I will be going through to progress my knowledge on a number of topics. To build out a knowledgebase of my learnings I will be keeping this repository up to date, and tagged with each section as I progresss through the class.
 
 ## Class Notes
+Below are class notes that will be broken out by section, and lecture. Each section will be tagged so that the history of the repository, and it associated code can be preserved.
 ### Section 1: The Absolute Scala Basics
 #### Lecture 1: Getting Started
 Setting up project skeleton in IntelliJ.  
