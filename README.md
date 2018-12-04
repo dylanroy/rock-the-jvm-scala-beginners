@@ -4,7 +4,7 @@
 ### Section 1: The Absolute Scala Basics
 #### Lecture 1: Getting Started
 Setting up project skeleton in IntelliJ.  
-[Go To](#link-to-github-tag)
+[Go To](/dyanroy/rock-the-jvm-scala-beginners/tree/section.1-lecture.1)
 
 ## Commit Message Guide
 **Commit Message Format**
