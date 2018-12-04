@@ -30,3 +30,4 @@ test: ensure Tayne retains clothing
 ```
 ## References
 [Class Github Repository](https://github.com/rockthejvm/udemy-scala-beginners)
+[Personal Access Token Instructions](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/)
